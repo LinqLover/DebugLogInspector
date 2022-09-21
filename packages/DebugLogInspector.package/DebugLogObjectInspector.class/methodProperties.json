@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"browseVariableAssignments" : "ct 9/21/2022 23:20",
+		"browseVariableReferences" : "ct 9/21/2022 23:20",
 		"classOfSelection" : "ct 9/21/2022 22:52",
+		"objectClass" : "ct 9/21/2022 23:20",
 		"streamInstanceVariablesOn:" : "ct 9/21/2022 17:53" } }
