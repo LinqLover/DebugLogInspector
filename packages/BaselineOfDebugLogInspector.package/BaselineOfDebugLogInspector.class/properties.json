@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDebugLogInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDebugLogInspector",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

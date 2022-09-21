@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'packages/BaselineOfDebugLogInspector.package' : #SquotCypressCodeSerializer,
+	'packages/DebugLogInspector.package' : #SquotCypressCodeSerializer
+}

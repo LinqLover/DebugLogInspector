@@ -1,0 +1,4 @@
+testing
+isDead
+
+	^ false

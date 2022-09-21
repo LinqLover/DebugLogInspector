@@ -1,0 +1,4 @@
+matching
+lookahead
+
+	^ input peek

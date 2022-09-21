@@ -1,0 +1,4 @@
+Tools-Inspector
+inspectorClass
+
+	^ DebugLogObjectInspector

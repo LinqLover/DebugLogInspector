@@ -1,0 +1,16 @@
+{
+	"category" : "DebugLogInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"printString",
+		"instanceVariables" ],
+	"name" : "DebugLogObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

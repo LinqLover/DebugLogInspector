@@ -1,0 +1,4 @@
+accessing
+assumeSameSource
+
+	^ DebugLogContext assumeSameSource

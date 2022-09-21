@@ -1,0 +1,14 @@
+{
+	"category" : "DebugLogInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 9/21/2022 23:01",
+	"instvars" : [
+		"input" ],
+	"name" : "DebugLogParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

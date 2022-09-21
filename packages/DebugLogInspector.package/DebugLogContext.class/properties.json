@@ -1,0 +1,21 @@
+{
+	"category" : "DebugLogInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AssumeSameSource" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sender",
+		"callee",
+		"selector",
+		"blockLevel",
+		"pc",
+		"methodClassName",
+		"receiver",
+		"temporaries" ],
+	"name" : "DebugLogContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

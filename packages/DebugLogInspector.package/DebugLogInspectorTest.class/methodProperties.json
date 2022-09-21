@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fixtureErrorSubscriptBoundsWithPC" : "ct 9/21/2022 22:03",
+		"fixtureHalt" : "ct 9/21/2022 22:38",
+		"fixtureInterrupt" : "ct 9/21/2022 22:03",
+		"fixtureSquotHooks" : "ct 9/21/2022 22:04",
+		"fixtureSquotObjectClassName" : "ct 9/21/2022 22:04",
+		"fixtureStackMorph" : "ct 9/21/2022 22:02",
+		"fixtures" : "ct 9/21/2022 22:07",
+		"testSmoke" : "ct 9/21/2022 22:51" } }
