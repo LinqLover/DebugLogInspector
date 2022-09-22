@@ -1,9 +1,16 @@
 {
 	"class" : {
-		"debug:" : "ct 9/21/2022 19:22",
+		"basicDebug:" : "ct 9/22/2022 10:57",
+		"debug:" : "ct 9/22/2022 10:58",
+		"debugFile:" : "ct 9/22/2022 10:58",
 		"debugFromClipboard" : "ct 9/21/2022 22:53",
+		"debugFromStream:" : "ct 9/22/2022 10:58",
+		"fileReaderServicesForFile:suffix:" : "ct 9/22/2022 10:56",
+		"initialize" : "ct 9/22/2022 10:53",
 		"parse:" : "ct 9/21/2022 15:18",
-		"todo" : "ct 9/21/2022 22:59" },
+		"parseStream:" : "ct 9/22/2022 10:58",
+		"todo" : "ct 9/21/2022 22:59",
+		"unload" : "ct 9/22/2022 10:53" },
 	"instance" : {
 		"classString" : "ct 9/21/2022 16:06",
 		"contextSignature" : "ct 9/21/2022 22:52",
