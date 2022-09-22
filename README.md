@@ -98,3 +98,15 @@ Metacello new
 	get;
 	load.
 ```
+
+## Usage
+
+There are multiple entrypoints:
+
+- Copy the bug report into clipboard, then do:
+
+  ```smalltalk
+  DebugLogParser debugFromClipboard.
+  ```
+
+- Drag a `SqueakDebug.log` file into your image, or open it in a File List, and select "inspect debug log".
