@@ -15,5 +15,6 @@ sparseStack
 			callee sender: new].
 		callee := new.
 		
+		input atEnd ifTrue: [^ top].
 		self newLine].
 	^ top

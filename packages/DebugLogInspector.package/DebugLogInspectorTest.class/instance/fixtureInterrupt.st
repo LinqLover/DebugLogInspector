@@ -457,5 +457,4 @@ WorldState>>doOneCycleNowFor:
 WorldState>>doOneCycleFor:
 PasteUpMorph>>doOneCycle
 [] in MorphicProject>>spawnNewProcess
-[] in FullBlockClosure(BlockClosure)>>newProcess
-'
+[] in FullBlockClosure(BlockClosure)>>newProcess'
